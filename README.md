@@ -8,4 +8,4 @@
 <http://vkdoc-demo.vkdoc.org>
 
 ## 贡献者
-[@那伊抹微笑](htpps://github.com/wangyangting)
+[@那伊抹微笑](https://github.com/wangyangting)
